@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\liuyh\source\repos\leetcode1\ConsoleApplication1\ConsoleApplication1.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liuyh\source\repos\leetcode1\ConsoleApplication1\ConsoleApplication1.cpp(41,1): warning C4244: '+=': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\liuyh\source\repos\leetcode1\Debug\ConsoleApplication1.exe
